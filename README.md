@@ -1,0 +1,2 @@
+# Movie-website
+A website i built from scratch on VS code, first started with building the front-end by writing the html and css and using javascript. I used an API key from www.themoviedb.org to let you search for the movie you want, and then built the back-end of this project using Node.js and linking it to a database from MongoDB to store and update the reviews that we are gonna add later on, and finally linking the back-end to the front-end to have a full website.
